@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==wamlURRZWVU1me1NFSxd1VsZVRwQzXwF3N1hzQwhGO3JjVxAHZS1mZ5omejwUNRVUMFJlWpwd=318385807452',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
 ⏰ Now time is @time
 📅 Date : @date
 
-🟢 I am online still @uptime
+🟢 I am online @uptime
 🔄 Response Delay : @ping Ms
 💻 Host : @host
 🪢 Version : @version
@@ -17,25 +17,25 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+tam ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+  ALIVE_MEDIA: 'https://telegra.ph/file/d84e1a26bf8596bbad10a.jpg',
+  MONGODB_URL: 'mongodb+srv://elisaqd:elisaqd@elisacode.ywprvap.mongodb.net/?retryWrites=true&w=majority&appName=elisacode', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: 'Tam',
+  OWNER_NAME: 'KOOKY',
+  OWNER_NUMBER: '254708583813',
+  SUDO: '',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
-  TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  TIME_ZONE: 'Africa/Nairobi',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ tam',
+  STICKER_AUTHOR: 'KOOKY',
+  STICKER_PACK: 'KOOKY',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
-  OWNER_R_EMOJI: '👽',
+  OWNER_R_EMOJI: '⭐',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
@@ -70,7 +70,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
       '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
   },
   BOT_RULES:
-    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ tam 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
