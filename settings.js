@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==wYhh3U5g2N1wUe2I2XOdDZ5cXam5kWmBHUSFkVYp0S1dEcYFnchdEdrdFOjI2dZZlawEFbpwd=318385807452',
+  SESSION_ID: 'QUEENELISA;;;==wZ5EDcpR1Usd2MMtmWRFHdyMXLyIzdFZ1ZORVRmZzX19kRu5WOV9VZ2R1Xjk1dhl3Vw0Eepwd=858364967452',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -17,22 +17,22 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-tam ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+Omweri ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d84e1a26bf8596bbad10a.jpg',
   MONGODB_URL: 'mongodb+srv://elisaqd:elisaqd@elisacode.ywprvap.mongodb.net/?retryWrites=true&w=majority&appName=elisacode', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: 'Tam',
-  OWNER_NAME: 'KOOKY',
-  OWNER_NUMBER: '254708583813',
+  BOT_NAME: 'Omweri',
+  OWNER_NAME: 'Omweri',
+  OWNER_NUMBER: '254769463858',
   SUDO: '',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Africa/Nairobi',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ tam',
-  STICKER_AUTHOR: 'KOOKY',
-  STICKER_PACK: 'KOOKY',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Omweri',
+  STICKER_AUTHOR: 'Omweri',
+  STICKER_PACK: 'Omweri',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '⭐',
@@ -70,7 +70,7 @@ tam ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
       '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
   },
   BOT_RULES:
-    "*⚖️ tam 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ Omweri 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
