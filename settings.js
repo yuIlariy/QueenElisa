@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==wZ5EDcpR1Usd2MMtmWRFHdyMXLyIzdFZ1ZORVRmZzX19kRu5WOV9VZ2R1Xjk1dhl3Vw0Eepwd=858364967452',
+  SESSION_ID: 'QUEENELISA;;;==wZVxGc5FjVipFStpWetpmdLlDUihGUfllZ3RXS3UVcGlnMYlVLKN2M6VlbjIlWaJTes1UNpwd=318385807452',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -17,22 +17,22 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Omweri ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+KOOKY ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d84e1a26bf8596bbad10a.jpg',
-  MONGODB_URL: 'mongodb+srv://ferr:ferr@serverlessinstance0.8k0vrmo.mongodb.net/?retryWrites=true&w=majority&appName=ServerlessInstance0', 
+  MONGODB_URL: 'mongodb+srv://nam:nam@serverlessinstance0.poych7v.mongodb.net/?retryWrites=true&w=majority&appName=ServerlessInstance0', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: 'Omweri',
-  OWNER_NAME: 'Omweri',
-  OWNER_NUMBER: '254769463858',
+  BOT_NAME: 'KOOKY',
+  OWNER_NAME: 'KOOKY',
+  OWNER_NUMBER: '254708583813',
   SUDO: '',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Africa/Nairobi',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Omweri',
-  STICKER_AUTHOR: 'Omweri',
-  STICKER_PACK: 'Omweri',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ KOOKY',
+  STICKER_AUTHOR: 'KOOKY',
+  STICKER_PACK: 'KOOKY',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '⭐',
@@ -70,7 +70,7 @@ Omweri ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
       '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
   },
   BOT_RULES:
-    "*⚖️ Omweri 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ KOOKY 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
