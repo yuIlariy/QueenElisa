@@ -19,7 +19,7 @@ module.exports = {
 
 Omweri ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d84e1a26bf8596bbad10a.jpg',
-  MONGODB_URL: 'mongodb+srv://elisaqd:elisaqd@elisacode.ywprvap.mongodb.net/?retryWrites=true&w=majority&appName=elisacode', 
+  MONGODB_URL: 'mongodb+srv://ferr:ferr@serverlessinstance0.8k0vrmo.mongodb.net/?retryWrites=true&w=majority&appName=ServerlessInstance0', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
